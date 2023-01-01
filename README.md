@@ -11,7 +11,7 @@ To use this app you need to:
 4. Open the project folder in your VS Code
 5. Open terminal and run `npm install`
 6. Run `ng serve` to start the app
-7. Open your browser and go to `http://localhost:/`
+7. Open your browser and go to `http://localhost:your portal/`
 
 ## How to use
 
